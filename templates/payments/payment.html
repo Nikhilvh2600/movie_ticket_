@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Pay ₹{{booking.total_amount}}</h1>
+
+<form method="POST">
+  {% csrf_token %}
+  <button type="submit" id="checkout-button">Pay Now</button>
+</form>
+
+{% endblock %}
