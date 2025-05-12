@@ -118,13 +118,9 @@ Environment variables handled using .env (keep it out of version control).
 Role-based admin panel (movie upload, user management).
 
 Razorpay/Stripe integration for paid bookings.
-
 Reviews and ratings for each movie.
 
-QR code for ticket validation.
 
-📎 License
-This project is licensed under the MIT License.
 
 📬 Contact
 Rakesh Kumar
