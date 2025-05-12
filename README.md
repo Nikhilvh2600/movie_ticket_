@@ -219,20 +219,6 @@ Add personalized recommendations
 
 Add ratings and reviews
 
-📄 License
-This project is licensed under the MIT License.
-
-🙌 Acknowledgements
-Inspired by BookMyShow, Netflix, and Hotstar
-
-Built using Django with ❤️
-
-vbnet
-Copy code
-
-
-
-
 
 
 
