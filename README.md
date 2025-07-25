@@ -73,7 +73,7 @@ movie_ticket_booking/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/krakesh1309/movie_ticket_.git
+git clone https://github.com/nikhilvh2600/movie_ticket_.git
 cd movie_ticket_
 2. Set up a virtual environment
 python -m venv venv
@@ -123,8 +123,7 @@ Reviews and ratings for each movie.
 
 
 📬 Contact
-Rakesh Kumar
+ nikhil
 📍 Bangalore, Karnataka
-📧 sprakesh4114@gmail.com
-🔗 LinkedIn | GitHub
+📧 nikhilvh2600@gmail.com
 
